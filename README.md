@@ -45,7 +45,7 @@ This Python script automates the process of sending daily email reports via Gmai
 2. Navigate to the project directory:
 
    ```bash
-   cd daily-email-report
+   cd daily_email_report
    ```
 
 3. Install the required dependencies:
