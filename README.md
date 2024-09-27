@@ -64,7 +64,7 @@ This Python script automates the process of sending daily email reports via Gmai
 5. Run the script:
 
    ```bash
-   python email_report.py
+   python daily_email_report.py
    ```
 
 6. To schedule the email to send daily, you can use cron (Linux/macOS) or Task Scheduler (Windows).
@@ -72,7 +72,7 @@ This Python script automates the process of sending daily email reports via Gmai
 ## Example
 
 ```bash
-python email_report.py
+python daily_email_report.py
 ```
 
 Output:
